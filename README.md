@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Software-Inventarverwaltung (Python XML Processing) 
 
 Eine praxisnahe Übung zur Erstellung, zum Auslesen, Abfragen und Bearbeiten von XML-Dateien mit Pythons integriertem Modul xml.etree.ElementTree.
@@ -36,3 +37,6 @@ Ein neues Programm p03 hinzufügen (Git, Version 2.43, Typ Open Source).
 
 Den aktualisierten Baum neu formatieren und zurück in software.xml speichern.
 
+=======
+# Software-Inventar
+>>>>>>> f8a023586eebfe674ead3cd3a3ccfdf27dafbda2
