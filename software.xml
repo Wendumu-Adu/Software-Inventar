@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<inventar>
+    <programm id="p01">
+        <name>Python 3</name>
+        <version>3.13</version>
+        <typ>Open Source</typ>
+    </programm>
+    <programm id="p02">
+        <name>VS Code</name>
+        <version>1.85</version>
+        <typ>Freeware</typ>
+    </programm>
+    <programm id="p03">
+        <name>Git</name>
+        <version>2.43</version>
+        <typ>Open Source</typ>
+    </programm>
+</inventar>
